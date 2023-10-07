@@ -1,0 +1,29 @@
+{
+  "name": "f",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.5.7",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "axios": "^1.5.0",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "fs": "^0.0.1-security",
+    "js-base64": "^3.7.5",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.4",
+    "react-pdf": "^7.3.3",
+    "saas": "^1.0.0",
+    "sass": "^1.66.1",
+    "typescript": "5.2.2"
+  }
+}
